@@ -20,13 +20,14 @@ Program Menu:
 ![Program Menu](images/menu.png)
 
 Temperature Conversion Example:
-![Conversion Example](images/exampleAddingAndDisplaying.png)
+![Adding Temperature to List and Displaying](images/temperatureConvertionExample.png)
 
 Random Temperature generation and some Error handling:
 ![Random Temperature Generation and Error Handling](images/randomTemperatureGeneration.png)
 
 Adding Temperature to list and Display List:
-![Adding Temperature to List and Displaying](images/temperatureConvertionExample.png)
+![Conversion Example](images/exampleAddingAndDisplaying.png)
+
 
 
 [Video to Link](https://drive.google.com/file/d/1CEQLtJ4r6P2HBBGOPH2ElMnWtPry8_su/view?usp=sharing)
