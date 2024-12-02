@@ -16,12 +16,16 @@ C++: Core programming language, leveraging features like type casting, loops, an
 
 ## Screenshots and Video
 
+Program Menu:
 ![Program Menu](images/menu.png)
 
+Temperature Conversion Example:
 ![Conversion Example](images/exampleAddingAndDisplaying.png)
 
+Random Temperature generation and some Error handling:
 ![Random Temperature Generation and Error Handling](images/randomTemperatureGeneration.png)
 
+Adding Temperature to list and Display List:
 ![Adding Temperature to List and Displaying](images/temperatureConvertionExample.png)
 
 
